@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Приветствую, меня зовут Станислав и я разработчик на С++
 
 <!--
 **CtacsGitForWork/CtacsGitForWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **Имя Фамилия**
 Опытный разработчик, увлечённый созданием качественных решений
 
-## 🎯 Специализации
+## 🛠 Стек:
 * **Основные навыки:**
   * JavaScript/TypeScript
   * React, Node.js
