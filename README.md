@@ -43,28 +43,25 @@ Here are some ideas to get you started:
   * Технологии: Node.js, Express, MongoDB
 
 ## 📈 Статистика активности
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
-
-## 🔗 Как связаться
-* **Email:** your.email@example.com
-* **LinkedIn:** [профиль](https://linkedin.com/in/yourprofile)
-* **Telegram:** [@yourusername]
-
-## 🎯 Открыт к:
-* Новым проектам
-* Менторству
-* Коллаборациям
-
-## 🧠 Интересы
-* Изучение новых технологий
-* Open-source проекты
-* Публичные выступления
-
-## 📝 Лицензии
-* Сертификат JavaScript Developer
-* AWS Certified Developer
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CtacsGitForWork)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtacsGitForWork)
 
 ---
 
-Спасибо, что заглянули! Буду рад сотрудничеству 💼
+Спасибо, что заглянули! Буду рад сотрудничеству 🤝 !
+
+# 👋 Привет!
+## 🧑‍💻 О себе
+**Имя Фамилия**
+Начинающий разработчик C++, недавно завершил обучение и готов применять полученные знания на практике
+
+## 📊 Мои проекты
+
+
+
+
+
+
+
+
+
