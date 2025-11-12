@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
-* **Особая благодарность за полученные знания:** <img src="https://github.com/user-attachments/assets/793a5f80-2965-4f84-9181-6860f7b51eba" width="127" height="28">
+* **Особая благодарность за полученные знания:**
+ <img src="https://github.com/user-attachments/assets/793a5f80-2965-4f84-9181-6860f7b51eba" width="127" height="28">
 
 ---
 
