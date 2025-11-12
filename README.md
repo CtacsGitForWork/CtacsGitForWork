@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 
 ![Яндекс.Практикум](https://media.licdn.com/dms/image/v2/D4D0BAQFb2ofYEhAZpg/company-logo_200_200/B4DZVf8WsiHAAI-/0/1741071412403/practicum_russia_logo?e=2147483647&v=beta&t=tWnorFHEHEhDcoF5QsD_neFqcVmqFH6eXdYazzDFkiU)
 
+[![Яндекс.Практикум](https://img.shields.io/badge/dynamic/json?label=Яндекс%20Практикум&logoData=%7B%22svgPaths%22%3A%7B%22a%22%3A%7B%22d%22%3A%22M16 2L29 15 42 2 55 15 70 29 55 43 42 57 29 43 16 57 3 43 16 29z%22%7D%7D&logoColor=%23FFFFFF&labelColor=%23000000&style=for-the-badge)](https://practicum.yandex.ru)
+
+![Яндекс.Практикум](https://media.licdn.com/dms/image/v2/D4D0BAQFb2ofYEhAZpg/company-logo_200_200/B4DZVf8WsiHAAI-/0/1741071412403/practicum_russia_logo?e=2147483647&v=beta&t=tWnorFHEHEhDcoF5QsD_neFqcVmqFH6eXdYazzDFkiU)
 
