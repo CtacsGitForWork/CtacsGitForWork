@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 ## 📊 Мои проекты
 
 ![Яндекс.Практикум](https://img.shields.io/badge/Яндекс.Практикум-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=000&labelColor=fff)
+
+![Яндекс.Практикум](https://img.shields.io/badge/Яндекс.Практикум-000000?style=for-the-badge&logo=yandex&logoColor=000&labelColor=white)
+
+<img src="https://avatars.mds.yandex.net/get-lpc/1635340/564121c7-605c-4918-b568-109bf355e8f1/orig" width="200" alt="Яндекс.Практикум">
