@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 [![Яндекс.Практикум](https://img.shields.io/badge/dynamic/json?label=Yandex.Practicum&logoData=%7B%22svgPaths%22%3A%7B%22a%22%3A%7B%22d%22%3A%22M16 2L29 15 42 2 55 15 70 29 55 43 42 57 29 43 16 57 3 43 16 29z%22%7D%7D&logoColor=%23FFFFFF&labelColor=%23000000&style=for-the-badge)](https://practicum.yandex.ru)
 
-[![Яндекс.Практикум](https://img.shields.io/badge/Yandex.Practicum-%23FFFFFF.svg?style=for-the-badge&logoColor=black&logo=yandex-practicum)](https://practicum.yandex.ru)
+или альтернативный вариант с прямой ссылкой на изображение:
 
+![Яндекс.Практикум](https://media.licdn.com/dms/image/v2/D4D0BAQFb2ofYEhAZpg/company-logo_200_200/B4DZVf8WsiHAAI-/0/1741071412403/practicum_russia_logo?e=2147483647&v=beta&t=tWnorFHEHEhDcoF5QsD_neFqcVmqFH6eXdYazzDFkiU)
 
-[![Яндекс.Практикум](https://img.shields.io/badge/Yandex.Practicum-%23FFCC00.svg?style=for-the-badge&logoColor=black)](https://practicum.yandex.ru)
 
