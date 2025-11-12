@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&&logo=visualstudio&logoColor=white)](#)
 [![CMake](https://img.shields.io/badge/CMake-00AFD7?style=for-the-badge&logo=cmake)](https://cmake.org)
 [![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)](#)
-[![Яндекс.Практикум](https://img.shields.io/badge/Yandex.Practicum-blue?style=for-the-badge&logo=yandex)](https://practicum.yandex.ru)
+<img src="https://github.com/user-attachments/assets/73b81377-1547-4142-8ab1-d457a45f1d28" width="150" height="40">
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
@@ -31,12 +31,3 @@ Here are some ideas to get you started:
 
 
 ## 📊 Мои проекты
-
-![Яндекс.Практикум](https://img.shields.io/badge/Яндекс.Практикум-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=000&labelColor=fff)
-
-![Яндекс.Практикум](https://img.shields.io/badge/Яндекс.Практикум-000000?style=for-the-badge&logo=yandex&logoColor=000&labelColor=white)
-
-![практикум](https://github.com/user-attachments/assets/73b81377-1547-4142-8ab1-d457a45f1d28)
-
-<img src="https://github.com/user-attachments/assets/73b81377-1547-4142-8ab1-d457a45f1d28" width="150" height="40">
-
