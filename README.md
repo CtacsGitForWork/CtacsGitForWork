@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Люблю изучать новое про технологии и железо. Затем gрименяю изученное, пропуская через призму инженерного опыта.
+Люблю изучать новое про технологии и железо. Затем применяю изученное, пропуская через призму инженерного опыта.
 
 ## 🛠 Стек:
 * **Основные навыки:**
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 * **Дополнительные технологии:**
   
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&&logo=visualstudio&logoColor=white)](#)
+[![CMake](https://img.shields.io/badge/CMake-00AFD7?style=for-the-badge&logo=cmake)](https://cmake.org)
 [![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)](#)
+[![Яндекс.Практикум](https://img.shields.io/badge/Yandex.Practicum-blue?style=for-the-badge&logo=yandex)](https://practicum.yandex.ru)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
