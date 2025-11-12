@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 Мои проекты
+
+[![Яндекс.Практикум](https://img.shields.io/badge/dynamic/json?label=Yandex.Practicum&logoData=%7B%22svgPaths%22%3A%7B%22a%22%3A%7B%22d%22%3A%22M219 47 L0 47 L0 0 L219 0 Z M109.5 23.5 C109.5 38.5 94.5 53.5 79.5 53.5 C64.5 53.5 49.5 38.5 49.5 23.5 C49.5 9.5 64.5 0 79.5 0 C94.5 0 109.5 9.5 109.5 23.5 Z%22%7D%7D&logoColor=%23FFCC00&labelColor=%23000000&style=for-the-badge)](https://practicum.yandex.ru)
+[![Яндекс.Практикум](https://img.shields.io/badge/Yandex.Practicum-%23FFCC00.svg?style=for-the-badge&logoColor=black)](https://practicum.yandex.ru)
+
