@@ -32,13 +32,4 @@ Here are some ideas to get you started:
 
 ## 📊 Мои проекты
 
-[![Яндекс.Практикум](https://img.shields.io/badge/dynamic/json?label=Yandex.Practicum&logoData=%7B%22svgPaths%22%3A%7B%22a%22%3A%7B%22d%22%3A%22M16 2L29 15 42 2 55 15 70 29 55 43 42 57 29 43 16 57 3 43 16 29z%22%7D%7D&logoColor=%23FFFFFF&labelColor=%23000000&style=for-the-badge)](https://practicum.yandex.ru)
-
-или альтернативный вариант с прямой ссылкой на изображение:
-
-![Яндекс.Практикум](https://media.licdn.com/dms/image/v2/D4D0BAQFb2ofYEhAZpg/company-logo_200_200/B4DZVf8WsiHAAI-/0/1741071412403/practicum_russia_logo?e=2147483647&v=beta&t=tWnorFHEHEhDcoF5QsD_neFqcVmqFH6eXdYazzDFkiU)
-
-[![Яндекс.Практикум](https://img.shields.io/badge/dynamic/json?label=Яндекс%20Практикум&logoData=%7B%22svgPaths%22%3A%7B%22a%22%3A%7B%22d%22%3A%22M16 2L29 15 42 2 55 15 70 29 55 43 42 57 29 43 16 57 3 43 16 29z%22%7D%7D&logoColor=%23FFFFFF&labelColor=%23000000&style=for-the-badge)](https://practicum.yandex.ru)
-
-![Яндекс.Практикум](https://media.licdn.com/dms/image/v2/D4D0BAQFb2ofYEhAZpg/company-logo_200_200/B4DZVf8WsiHAAI-/0/1741071412403/practicum_russia_logo?e=2147483647&v=beta&t=tWnorFHEHEhDcoF5QsD_neFqcVmqFH6eXdYazzDFkiU)
-
+![Яндекс.Практикум](https://img.shields.io/badge/Яндекс.Практикум-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNODAgNjBDODAgNTUuNTgyIDgzLjU4MiA1MiA4OCA1MkgxMTJDMTE2LjQxOCA1MiAxMjAgNTUuNTgyIDEyMCA2MFYxNDBDMTIwIDE0NC40MTggMTE2LjQxOCAxNDggMTEyIDE0OEg4OEM4My41ODIgMTQ4IDgwIDE0NC40MTggODAgMTQwVjYwWiIgZmlsbD0iYmxhY2siLz4KPHBhdGggZD0iTTEzMCA4MEMxMzAgNzUuNTgyIDEzMy41ODIgNzIgMTM4IDcySDE2MkMxNjYuNDE4IDcyIDE3MCA3NS41ODIgMTcwIDgwVjE0MEMxNzAgMTQ0LjQxOCAxNjYuNDE4IDE0OCAxNjIgMTQ4SDEzOEMxMzMuNTgyIDE0OCAxMzAgMTQ0LjQxOCAxMzAgMTQwVjgwWiIgZmlsbD0iYmxhY2siLz4KPHBhdGggZD0iTTMwIDEwMEMzMCA5NS41ODIgMzMuNTgyIDkyIDM4IDkySDYyQzY2LjQxOCA5MiA3MCA5NS41ODIgNzAgMTAwVjE0MEM3MCAxNDQuNDE4IDY2LjQxOCAxNDggNjIgMTQ4SDM4QzMzLjU4MiAxNDggMzAgMTQ0LjQxOCAzMCAxNDBWMTAwWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+&labelColor=white&color=black)
