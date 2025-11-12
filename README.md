@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 
 ![практикум](https://github.com/user-attachments/assets/73b81377-1547-4142-8ab1-d457a45f1d28)
 
+<img src="https://github.com/user-attachments/assets/73b81377-1547-4142-8ab1-d457a45f1d28" width="150" height="40">
+
