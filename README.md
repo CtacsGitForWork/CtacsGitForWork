@@ -10,15 +10,10 @@ Here are some ideas to get you started:
 
 ## 🛠 Стек:
 * **Основные навыки:**
-  * JavaScript/TypeScript
-  * React, Node.js
-  * Python (Django)
-  * Git, Docker
+
 
 * **Дополнительные технологии:**
-  * SQL/PostgreSQL
-  * AWS/Azure
-  * CI/CD
+
 
 ## 📊 Мои проекты
 ### Текущие проекты
